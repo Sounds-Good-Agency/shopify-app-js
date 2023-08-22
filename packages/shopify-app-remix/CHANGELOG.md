@@ -1,5 +1,14 @@
 # @shopify/shopify-app-remix
 
+## 1.0.5
+
+### Patch Changes
+
+- 346b623: Updating dependency on @shopify/shopify-api
+- 14e8019: Enable `authenticate.public` to handle post-purchase extension requests by supporting extra CORS headers and fixing session token verification.
+- Updated dependencies [346b623]
+  - @shopify/shopify-app-session-storage@1.1.8
+
 ## 1.0.4
 
 ### Patch Changes
